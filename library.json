@@ -1,0 +1,12 @@
+{
+    "name": "PinDebouncer",
+    "version": "0.0.1",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/pul87/PinDebouncer.git"
+    },
+    "license": "MIT",
+    "keywords": ["pin", "debouncer", "arduino"],
+    "description": "Very basic pin debouncer for digital pin on Arduino"
+}
